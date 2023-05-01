@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,3 +11,6 @@
    <h1>첫번쨰 수정</h1>
 </body>
 </html>
+=======
+123
+>>>>>>> ea12ae5eab5dbc570d27234f3a83e9855bf50834
